@@ -81,6 +81,7 @@ Using the `predictHeartDisease` function in the script/notebook, the implementat
 Install dependencies using:
 ```bash
 pip install -r requirements.txt
+```
 
 ## References
 
